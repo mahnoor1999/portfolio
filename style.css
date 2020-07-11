@@ -9,7 +9,7 @@ display: none !important;
 .cross{
     display: none;
 }
-.ham-icon:hover+.cross{
+ul:hover .cross{
 display: inline;
 
 }
